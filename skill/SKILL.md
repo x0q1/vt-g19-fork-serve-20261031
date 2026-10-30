@@ -1,7 +1,7 @@
 ---
 name: vt-g19-fork-serve
-description: VT-G19 upstream control skill
+description: VT-G19 fork-only skill
 ---
-# VT-G19 upstream skill
+# VT-G19 fork-only skill
 
-This file carries VT-G19-UPSTREAM-CANARY in the upstream-tip commit.
+VT-G19-FORK-ONLY-CANARY-cd68bbb41c076d09
